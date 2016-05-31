@@ -4,7 +4,7 @@ layout: default
 
 # Node tutorial
 
-This is a  quick introduction to using Javascript on the command line using Node JS.
+This is a  quick introduction to using JavaScript on the command line using Node.JS.
 
 ## Testing what've done
 

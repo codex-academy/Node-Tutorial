@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Useful functions built into Javascript
+title: Useful functions built into JavaScript
 ---
 
-## Useful functions built into Javascript
+## Useful functions built into JavaScript
 
-Objects in Javascript have various useful methods that make it easy to do various tasks. We will look at a few useful methods of the String and Array objects just to show you what is possible. Be sure to look into what other methods are supported by the String and Array objects as well as the other built-in objects in Javascript - this will prevent you from doing unnecessary work.
+Objects in JavaScript have various useful methods that make it easy to do various tasks. We will look at a few useful methods of the String and Array objects just to show you what is possible. Be sure to look into what other methods are supported by the String and Array objects as well as the other built-in objects in JavaScript - this will prevent you from doing unnecessary work.
 
 ### String
 
-A string object in Javascript has a lot of methods that you can use.
+A string object in JavaScript has a lot of methods that you can use.
 
 To see what those are: [Standard built-on objects > String, on Mozilla Developer Network]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String).
 
@@ -46,7 +46,7 @@ So what methods does an Array have?
 Ok, go and google this quickly : `array javascript functions mdn`
 
 > **Top tip** Whenever you search for javascript specific syntax, add the term 'mdn' to your search criteria.
-This way you are bound to get a Javascript reference from 'The Mozilla Developer Network' (mdn) - which is an authority on Javascript syntax.
+This way you are bound to get a JavaScript reference from 'The Mozilla Developer Network' (mdn) - which is an authority on JavaScript syntax.
 
 Using the search above your first hit should be: [Standard built-on objects > Array, on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 

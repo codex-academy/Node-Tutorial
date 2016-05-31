@@ -23,7 +23,7 @@ For example:
 * and each file has 3 rows
 * your modules should return a list containing 9 rows
 
-Use the built in node module called `fs` - it stands for File System. The `fs` module handles accessing files from Node JS.
+Use the built in node module called `fs` - it stands for File System. The `fs` module handles accessing files from Node.JS.
 
 **You should use these 2 function calls from the fs module in your module:**
 
