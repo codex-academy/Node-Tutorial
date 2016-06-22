@@ -6,7 +6,7 @@ layout: default
 
 So far all the NodeJS programs your wrote were little islands, the only way they communicated with the end user was through the console. And the only way we were able to test them was using some trickery to track what was logged to the console.
 
-For sharing Javascript files in the browser one uses the `script` tag, but it is also tricky as these script references needs to be loaded in the right order, etc.
+For sharing JavaScript files in the browser one uses the `script` tag, but it is also tricky as these script references needs to be loaded in the right order, etc.
 
 NodeJS has a more sophisticated module system, that is based on CommonJS. Not only can you create your own modules, but NodeJS also has it own built in modules that you can use to access files on disk for example.
 
